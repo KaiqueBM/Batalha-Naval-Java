@@ -148,14 +148,8 @@ public class menuBatalhaNaval {
 	//MÉTODO CRÉDITOS: Mostra quem criou o jogo.
 	public void creditos() {
 		Scanner ler = new Scanner(System.in);
-		System.out.println("[VOCÊ ESCOLHER A OPÇÃO CRÉDITOS]");
-		System.out.println("Depois de muita raça, dedicação, código e muito teste, está");
-		System.out.println("concluida a v56674.10 da Batalha Naval.");
-		System.out.println();
-		System.out.println("[CRIADO PELA CCP 3ºA MATUTINO]");
-		System.out.println("Giselle Ruscitto  - RGM: 2062530-8");
-		System.out.println("Kaique Miranda    - RGM: 2061338-5");
-		System.out.println("Robert Alves      - RGM: 2128141-6");
+		System.out.println("[CCP 3ºA MATUTINO]");
+		System.out.println("Kaique Miranda");
 		System.out.println();
 		System.out.println("[DESEJA VOLTAR PARA O MENU?] 1- Sair, 2- Repetir");
 		creditos = ler.nextInt();
