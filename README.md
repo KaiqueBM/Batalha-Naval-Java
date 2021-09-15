@@ -55,7 +55,7 @@ As seguintes ferramentas/conceitos foram usadas na construção do projeto:
 
 Você terá que usar alguma IDE que tenha suporte a linguagem Java, como por exemplo o Eclipse. <br>
 Com os arquivos do projeto baixado, vai em **Import projects from file system or archive** e importa o repositório. <br>
-Ele vai carregar todas as packages e class do projeto, em seguida é só compilar e jogar! <br>
+Ele vai carregar todas as packages e class do projeto, em seguida é só compilar e jogar!!! <br>
 
 
 
